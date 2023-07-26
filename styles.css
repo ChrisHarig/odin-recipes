@@ -1,0 +1,25 @@
+.headers {
+    color: blanchedalmond;
+    text-decoration: bold;
+}
+
+body {
+    background-color: brown;
+    padding-left: 4rex;
+    padding-top: 4rex;
+}
+
+p {
+    color: blanchedalmond;
+    font-size: 24px;
+}
+ul {
+    color: blanchedalmond;
+    font-size: 24px;
+}
+
+ol {
+    color:blanchedalmond;
+    font-size: 24px;
+}
+

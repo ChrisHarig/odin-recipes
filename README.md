@@ -1,2 +1,2 @@
 
-So far I have learned the basics of HTML.
+So far I have learned the basics of HTML and CSS.
